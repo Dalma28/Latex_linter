@@ -1,0 +1,8 @@
+
+
+{
+    "newline" : true,
+    "format_comments": true,
+    "blanklines": [{"use": true},{"number_of_lines": 3}], 
+    "adding_tabs": true
+}
