@@ -8,7 +8,7 @@ Latex linter is a linter thar checks your latex file and do some changes on the 
 
 ## Usage
 
-You can run the program directly from latexlinter file by running the program from terminal and inserting the file name. The program will make an edited copy of your original latex file.
+You can run the program directly from latexlinter file by running the program in the terminal and inserting the file name. The program will make an edited copy of your original latex file.
 If you want to have more than one edited file, then please MOVE the first edited file to another folder then run the program. Otherwise the editing will be done on the same file every time you run the program.
 
 ## Rules editing
