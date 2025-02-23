@@ -4,7 +4,7 @@ Latex linter is a program for editing and reformatting latex files
 
 ## Project description
 
-Latex linter is a linter thar checks your latex file and do some changes on the format of the file. The program follows certain rules for editing. Latex linter saves you time by checking your whole file and make the needed changes. The program makes a copy of your file so that you can hold the original file. 
+Latex linter is a linter that checks your latex file and do some changes on the format of the file. The program follows certain rules for editing. Latex linter saves you time by checking your whole file and make the needed changes. The program makes a copy of your file so that you can hold the original file. 
 
 ## Usage
 
